@@ -1,2 +1,2 @@
-dog = new.class
+class Dog
 end
